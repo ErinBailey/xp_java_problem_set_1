@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarEngineTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-01-20T22:40:46" hostname="COMPOZED-NBT-08" time="0.001">
+  <properties/>
+  <testcase name="createCarEngine_takesSixProperties" classname="CarEngineTest" time="0.0"/>
+  <testcase name="coolingSystemComponent_returnsTrueIfComponentIsACoolingSystemComponent" classname="CarEngineTest" time="0.0"/>
+  <testcase name="fullDescription_returnsAStringContainingAllAttributes" classname="CarEngineTest" time="0.0"/>
+  <testcase name="engineComponent_returnsTrueIfPartIsEngineComponent" classname="CarEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
